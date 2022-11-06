@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movies>
+  <movie>
+    <title>Rush Hour 1</title>
+    <director>Brett Ratner</director>
+    <year>1998</year>
+    <genre>Action, Comedy, Thriller</genre>
+  </movie>
+  <movie>
+    <title>Rush Hour 2</title>
+    <director>Brett Ratner</director>
+    <year>2001</year>
+    <genre>Action, Comedy, Crime</genre>
+  </movie>
+  <movie>
+    <title>The Day After Tomorrow</title>
+    <director>Roland Emmerich</director>
+    <year>2004</year>
+    <genre>Action, Adventure, Sci-Fi</genre>
+  </movie>
+</movies>
